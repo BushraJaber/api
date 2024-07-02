@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.foood img{
+    width: 300px;
+    height: 300px;
+}
